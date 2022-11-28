@@ -26,7 +26,7 @@ GW Coding Bootcamp
 N/A
 
 ## Features
-This site features the use of javascript logic, error validaiton, functions, for loops, objects, event listeners, and DOM manipulation. 
+This site features the use of javascript logic, error validation, functions, for loops, objects, event listeners, and DOM manipulation. 
 
 ## Tests
 This site features tests for some failiure states that can occur when attempting to generate a password, such as; selecting a length for the password that is too short (password < 8 or password > 128) and not selecting any of the character types for the password. Those failure states and the subsequent alerts to retry are shown in the screenshots below. 
